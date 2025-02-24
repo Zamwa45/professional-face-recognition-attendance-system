@@ -1,0 +1,5 @@
+The Libraries
+pip install Flask Werkzeug
+pip install datetime
+for the web app(gui)
+pip install customtkinter tkinter opencv-python face-recognition numpy pandas pillow matplotlib pytz
